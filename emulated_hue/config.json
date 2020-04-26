@@ -1,5 +1,5 @@
 {
-  "name": "Emulated HUE",
+  "name": "Emulated HUE C4",
   "version": "0.0.4.1b",
   "description": "HUE Emulation for Home Assistant by C4",
   "url": "https://github.com/CiquattroFPV/hass_emulated_hue",
