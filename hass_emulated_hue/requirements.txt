@@ -1,7 +1,0 @@
-aiohttp[speedups]
-uvloop
-python-slugify
-netaddr
-aiorun
-getmac
-cryptography
