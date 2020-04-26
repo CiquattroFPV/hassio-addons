@@ -1,8 +1,8 @@
 {
   "name": "Emulated HUE",
-  "version": "0.0.4",
-  "description": "HUE Emulation for Home Assistant",
-  "url": "https://github.com/marcelveldt/hass_emulated_hue",
+  "version": "0.0.4.1b",
+  "description": "HUE Emulation for Home Assistant by C4",
+  "url": "https://github.com/CiquattroFPV/hass_emulated_hue",
   "slug": "emulated_hue",
   "stage": "experimental",
   "startup": "application",
